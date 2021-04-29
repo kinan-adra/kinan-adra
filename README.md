@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kinan-adra
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning nodejs 
+- 👀 I’m interested in MERN Stack development
+- 🌱 I’m currently learning Big Data 
 - 💞️ I’m looking to collaborate on NPM modules projects
 - 📫 How to reach me? ...kinan.o.adra@gmail.com
 
